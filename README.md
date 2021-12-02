@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nanellide and I'm looking forward to becoming a front-end developer.
+- 👋 Hi, I’m @nanellide and I'm an aspiring front-end developer.
 - 👀 I’m interested in literature and games. Come talk to me about greek mythology and theatre anytime!
-- 🌱 I’m currently learning Python, Javascript, and Angular!
-- 💞️ I’m not looking to collaborate on anything for the moment, busy schedule. 
+- 🌱 I’m currently learning Angular, Javascript and Python!
 - 📫 Reach me via my lurking twitter @nanellide.
 
 <!---

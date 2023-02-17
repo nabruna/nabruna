@@ -1,7 +1,7 @@
-# Bruna Andrade
-## Technical writer
+# About me
 
-### About me
+👩🏻‍💻 Hi, I'm **Bruna Andrade**, your friendly neighbourhood technical writer!
+
 🇧🇷 Being Brazilian means I will always find a way to do anything. I'm not being inspirational, it's called *gambiarra*. Look it up!
 
 ✍🏻 Besides writing professionally, I love filling my journal with thoughts, ideas, quotes, and fanfics.

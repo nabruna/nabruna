@@ -1,20 +1,13 @@
 # About me
 
-👩🏻‍💻 Hi, I'm **Bruna Andrade**, your friendly neighbourhood technical writer!
-
-🇧🇷 Being Brazilian means I will always find a way to do anything. I'm not being inspirational, it's called *gambiarra*. Look it up!
-
-✍🏻 Besides writing professionally, I love filling my journal with thoughts, ideas, quotes, and fanfics.
-
-📖 My favorite fiction genres are thrillers, horror, greek mythology and YA romance. Yes, I'm corny like that.
-
-📼 TV shows, movies, documentaries: you name it, I'll watch. Even the bad ones.
-
-🎮 Pro gamers beware, here I come! Just kidding, I just play single-player, sometimes isometric, RPGs and Paradox games.
-
-🐈‍⬛ Naná is my chill furry companion who loves to snuggle up next to me in bed and show her whiskers and tail to my coworkers during company calls.
-
-🛼 When I'm feeling adventurous, I fall on my ass wearing my quads. Other than that, I'm a couch potato.
+- 👩🏻‍💻 Heya, I'm **Bruna Andrade**, your friendly neighbourhood technical writer!
+- 🇧🇷 Being Brazilian means I will always find a way to do anything. I'm not being inspirational, it's called *gambiarra*. Look it up!
+- ✍🏻 Besides writing professionally, I love filling my journal with thoughts, ideas, quotes, and fanfics.
+- 📖 My favorite fiction genres are thrillers, horror, greek mythology and YA romance. Yes, I'm corny like that.
+- 📼 TV shows, movies, documentaries: you name it, I'll watch. Even the bad ones.
+- 🎮 Pro gamers beware, here I come! Just kidding, I just play single-player, sometimes isometric, RPGs and Paradox games.
+- 🐈‍⬛ Naná is my chill furry companion who loves to snuggle up next to me in bed and show her whiskers and tail to my coworkers during company calls.
+- 🛼 When I'm feeling adventurous, I fall on my ass wearing my quads. Other than that, I'm a couch potato.
 
 
 <!---

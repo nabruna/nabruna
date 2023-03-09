@@ -9,6 +9,8 @@
 - 🐈‍⬛ Naná is my furry companion who loves to snuggle up next to me and show her tail to my coworkers during company calls.
 - 🛼 When I'm feeling adventurous, I fall on my ass wearing my quads. Other than that, I'm a couch potato!
 
+[Work account @ Azion](https://github.com/bru-andrade)
+
 <!---
 nanellide/nanellide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
